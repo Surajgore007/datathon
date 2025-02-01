@@ -104,7 +104,7 @@ const Sidebar = ({ isOpen, toggleSidebar }) => {
   return (
     <SidebarContainer isOpen={isOpen}>
       <LogoSection>
-        {isOpen && <Logo to="/dashboard">Sandbox</Logo>}
+        {isOpen && <Logo to="/dashboard">Finalysis</Logo>}
         <ToggleButton onClick={toggleSidebar}>
           {isOpen ? <ChevronLeft /> : <Menu />}
         </ToggleButton>
