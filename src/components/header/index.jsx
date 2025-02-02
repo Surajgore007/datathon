@@ -70,7 +70,7 @@ const Header = () => {
   return (
     <HeaderWrapper>
       <HeaderContainer>
-        <Logo to="/">Sandbox</Logo>
+        <Logo to="/">Finalysis</Logo>
         <Nav>
           <NavLink to="/demos">Demos</NavLink>
           <NavLink to="/pages">Pages</NavLink>

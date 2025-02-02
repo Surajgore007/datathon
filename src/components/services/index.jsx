@@ -88,23 +88,23 @@ const ServiceDescription = styled.p`
 const services = [
   {
     icon: <Language />,
-    title: "SEO Optimization",
-    description: "Boost your website's visibility in search engines and drive organic traffic to your business."
+    title: "Accuracy",
+    description: "Get accurate results in no time."
   },
   {
     icon: <Code />,
-    title: "Web Design",
-    description: "Create beautiful, responsive websites that convert visitors into customers."
+    title: "Responsive Design",
+    description: "Get the best response for your own data of stocks"
   },
   {
     icon: <People />,
-    title: "Social Engagement",
-    description: "Build and grow your social media presence to connect with your target audience."
+    title: "Better than Human Analysis",
+    description: "Remove needs for human analysis"
   },
   {
     icon: <PhoneIphone />,
-    title: "App Development",
-    description: "Develop powerful mobile applications that enhance your business capabilities."
+    title: "Alerts",
+    description: "Get Alerts for your stocks"
   }
 ];
 

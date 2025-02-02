@@ -96,14 +96,13 @@ const Hero = () => {
       <Container>
         <Content>
           <Title>
-            Grow Your Business with <span>Our Marketing Solutions</span>
+            Grow Your Business with <span>Our Custom AI Model</span>
           </Title>
           <Description>
-            We help our clients to increase their website traffic, rankings, 
-            and visibility in search results.
+            We help our clients to increase their insights in about there stocks data.
           </Description>
           <ButtonGroup>
-            <PrimaryButton to="/dashboard">Try it for Free</PrimaryButton>
+            <PrimaryButton to="/dashboard">Check Dashboard</PrimaryButton>
             <SecondaryButton to="/learn-more">Explore Now</SecondaryButton>
           </ButtonGroup>
         </Content>
